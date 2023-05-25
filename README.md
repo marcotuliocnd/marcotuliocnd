@@ -4,7 +4,7 @@
 ---
 
 - 🇧🇷 Uberlandia, Brazil
-- 💻 Javascript, Python and Java developer
+- 💻 Node and PHP developer
 - 🎓 Information Systems ([UFU](https://ufu.br))
 - 👨‍💻 Software Engineer at GamersClub
 
