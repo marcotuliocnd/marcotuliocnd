@@ -5,7 +5,7 @@
 
 - 🇧🇷 Uberlandia, Brazil
 - 💻 Node, PHP, Python, Golang developer
-- 🎓 Information Systems ([[PUC](https://ufu.br)](https://pucminas.br/))
+- 🎓 Information Systems ([[PUC](https://pucminas.br/)])
 - 👨‍💻 Software Engineer at @mz-codes
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcotuliocnd/)](https://www.linkedin.com/in/marcotuliocnd/)
